@@ -16,9 +16,9 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js installed (version X.X.X)
+- Node.js installed (version v18.17.1)
 - MongoDB installed and running
-- Package manager (npm or yarn) installed
+- Package manager (npm ) installed
 
 ## Getting Started
 
