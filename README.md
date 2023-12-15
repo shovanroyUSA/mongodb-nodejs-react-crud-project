@@ -41,14 +41,23 @@ Before you begin, ensure you have met the following requirements:
 
 ## Project Structure
 mongodb-nodejs-react-crud-project/
-|-- server/              # Node.js server code
-|-- client/              # React client code
-|-- config/              # Configuration files
+
+|-- controllers/              # Controller files
+
 |-- models/              # MongoDB models
+
+|-- mongodb-frontend/              # reactjs Front end code
+
 |-- routes/              # Express routes
+
 |-- public/              # Static assets
+
+|-- services/              # Database services
+
 |-- .gitignore
+
 |-- package.json
+
 |-- README.md
 
 ## Technologies Used
